@@ -31,7 +31,7 @@ textarea{
 }
 
 #output {
-    border: 1px solid yellow;
+    border: 1px solid black;
     width: 80%;
     height: 10vh;
     margin: 1rem;

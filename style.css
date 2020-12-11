@@ -21,13 +21,26 @@ textarea{
     display: flex;
 }
 
-.head{
-    background-color : yellow;
-    height: 4rem;
-    text-align: center;
-    margin-block-start: 0%;
-    color: black;
-    padding-top: 2rem;
+header{
+    height: 6rem;
+    background-color:yellow;
+}
+
+header div img{
+    margin-top: 0rem;
+    width:6rem;
+    height: 6rem;
+   
+}
+
+header div{
+    display: flex;
+    justify-content: space-between;
+}
+h1{
+    margin-top:  2.3rem;
+    margin-right: 1rem;
+    font-family: 'Gochi Hand', cursive;
 }
 
 #output {
